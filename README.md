@@ -52,4 +52,4 @@ The final dashboard was exported as **`Hotel_Booking_Analysis.pbix.pdf`**.
 ---
 
 ## 🔗 Project Source  
-📁 **GitHub Repository:** https://github.com/Sahana174/hotel-booking-analytics
+📁 **GitHub Repository:** Hotel_Booking_Analytics
