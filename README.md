@@ -1,10 +1,10 @@
-# 🏨 Hotel Booking Analytics  
+# Hotel Booking Analytics  
 
 This project analyzes hotel booking data using **MySQL**, **Python**, **Excel**, and **Power BI** to uncover key business insights for the hospitality domain.  
 
 ---
 
-## 🌟 Key Features  
+##  Key Features  
 - Analyze **total revenue** and **average ADR** by hotel and room type  
 - Track **booking and cancellation trends**  
 - Compare **guest satisfaction** across different hotels  
@@ -12,7 +12,7 @@ This project analyzes hotel booking data using **MySQL**, **Python**, **Excel**,
 
 ---
 
-## ⚙️ How It Works  
+##  How It Works  
 
 ### 1️⃣ SQL — Data Extraction and Cleaning  
 Data was stored in **MySQL**, where SQL queries were used to clean, transform, and prepare the dataset for analysis.  
@@ -29,14 +29,14 @@ The final dashboard was exported as **`Hotel_Booking_Analysis.pbix.pdf`**.
 
 ---
 
-## 💡 Why Use This Project?  
+##  Key Insights & Learnings
 🎯 Understand hotel performance through data-driven insights  
 📊 Identify factors influencing cancellations and revenue  
 💼 Learn **data analytics workflow** from SQL → Python → Power BI  
 
 ---
 
-## 🛠️ Tools & Technologies Used  
+##  Tools & Technologies Used  
 - **SQL (MySQL)** → Data extraction & cleaning  
 - **Python (Pandas, Matplotlib, Seaborn)** → Analysis & visualization  
 - **Excel** → Data verification and formatting  
@@ -44,12 +44,12 @@ The final dashboard was exported as **`Hotel_Booking_Analysis.pbix.pdf`**.
 
 ---
 
-## 🚀 Get Started  
+##  Get Started  
 1️⃣ Run the Python scripts (`hotel_analysis.py` or `hotel_analysis_final.py`) to connect with MySQL and analyze the data.  
 2️⃣ Open the exported Excel file (`hotel_bookings_.xlsx`) in Power BI.  
 3️⃣ Build visuals, customize the dashboard, and export as PDF.  
 
 ---
 
-## 🔗 Project Source  
-📁 **GitHub Repository:** Hotel_Booking_Analytics
+ Project Source  
+📁 **GitHub Repository:** [Hotel_Booking_Analytics](https://github.com/Sahana174/Hotel_Booking_Analytics)
